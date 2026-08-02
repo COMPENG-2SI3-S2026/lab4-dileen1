@@ -47,7 +47,7 @@ bool assert_equal(bool, bool);
 
 // **** Enable This Flag for Verbose Tree Printout for Debugging **** //
 // **** Enable This Flag for Verbose Tree Printout for Debugging **** //
-bool verboseMode = false;
+bool verboseMode = true;
 // **** Enable This Flag for Verbose Tree Printout for Debugging **** //
 // **** Enable This Flag for Verbose Tree Printout for Debugging **** //
 
